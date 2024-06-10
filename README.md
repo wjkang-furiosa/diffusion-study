@@ -1,136 +1,24 @@
-# Resources for State Space Models (SSM)
+# Resources for Diffusion Models
 
-## Must-Read Papers
+## Text-to-Image
 
-<details><summary> <strong> HiPPO: Recurrent Memory with Optimal Polynomial Projections </strong> <code>NeurIPS 2020</code> <code>#HiPPO</code> <br> <a href="https://arxiv.org/abs/2008.07669"><img src="https://img.shields.io/badge/arXiv-2008.07669-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/HazyResearch/hippo-code"><img src="https://img.shields.io/github/stars/HazyResearch/hippo-code?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> <a href="https://hazyresearch.stanford.edu/blog/2020-12-05-hippo">
-  <img src="https://github.com/wonjunn/state-space-models-study/assets/60861873/6746910e-7ed0-43bb-9bd7-2d8c3ef52964" width="20" />
-</a> </summary>
-  
-![image](https://github.com/wonjunn/state-space-models-study/assets/60861873/3bbe2dd0-b97f-4456-92fa-d6a8e3e1131b)
+### Stability AI
+
+<details><summary> <strong> SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis </strong> <code>Preprint</code> <code>#SDXL</code> <br> <a href="https://arxiv.org/abs/2307.01952"><img src="https://img.shields.io/badge/arXiv-2307.01952-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Stability-AI/generative-models"><img src="https://img.shields.io/github/stars/Stability-AI/generative-models?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> Efficiently Modeling Long Sequences with Structured State Spaces </strong> <code>ICLR 2022</code> <code>#S4</code> <br> <a href="https://arxiv.org/abs/2111.00396"><img alt="GitHub release" src="https://img.shields.io/badge/arXiv-2111.00396-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/state-spaces/s4"><img src="https://img.shields.io/github/stars/state-spaces/s4?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> <a href="https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1">
-  <img src="https://github.com/wonjunn/state-space-models-study/assets/60861873/6746910e-7ed0-43bb-9bd7-2d8c3ef52964" width="20" />
-</a> </summary>
-  
-![image](https://github.com/wonjunn/state-space-models-study/assets/60861873/7196a443-8ab2-4620-b0ad-164bd1c2db9d)
+<details><summary> <strong> Adversarial Diffusion Distillation </strong> <code>Preprint</code> <code>#SDXL-Turbo</code> <br> <a href="https://arxiv.org/abs/2311.17042"><img src="https://img.shields.io/badge/arXiv-2311.17042-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Stability-AI/generative-models"><img src="https://img.shields.io/github/stars/Stability-AI/generative-models?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> Hungry Hungry Hippos: Towards Language Modeling with State Space Models </strong> <code>ICLR 2023</code> <code>#H3</code> <br> <a href="https://arxiv.org/abs/2212.14052"><img alt="GitHub release" src="https://img.shields.io/badge/arXiv-2212.14052-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/HazyResearch/H3"><img src="https://img.shields.io/github/stars/HazyResearch/H3?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> <a href="https://hazyresearch.stanford.edu/blog/2023-01-20-h3">
-  <img src="https://github.com/wonjunn/state-space-models-study/assets/60861873/6746910e-7ed0-43bb-9bd7-2d8c3ef52964" width="20" />
-</a> </summary>
-
-![image](https://github.com/wonjunn/state-space-models-study/assets/60861873/6c080966-b0f9-408f-a4c6-c5e1fbd2ba44)
+<details><summary> <strong> Scaling Rectified Flow Transformers for High-Resolution Image Synthesis </strong> <code>Preprint</code> <code>#SD3</code> <br> <a href="https://arxiv.org/abs/2403.03206"><img src="https://img.shields.io/badge/arXiv-2403.03206-b31b1b.svg?style=flat-square"></a> </summary>
 
 </details>
 
-<details><summary> <strong> Mamba: Linear-Time Sequence Modeling with Selective State Spaces </strong> <code>Preprint</code> <code>#S6</code> <code>#Mamba</code> <br> <a href="https://arxiv.org/abs/2312.00752"><img src="https://img.shields.io/badge/arXiv-2312.00752-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/state-spaces/mamba"><img src="https://img.shields.io/github/stars/state-spaces/mamba?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-![image](https://github.com/wonjunn/state-space-models-study/assets/60861873/74d75d5c-b675-4120-9391-f90203257578)
+<details><summary> <strong> Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation </strong> <code>Preprint</code> <code>#SD3-Turbo</code> <br> <a href="https://arxiv.org/abs/2403.12015"><img src="https://img.shields.io/badge/arXiv-2403.12015-b31b1b.svg?style=flat-square"></a> </summary>
 
 </details>
-
-## State Matrix $A$
-
-### HiPPO Matrix
-
-<details><summary> <strong> Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers </strong> <code>NeurIPS 2021</code> <code>#LSSL</code> <br> <a href="https://arxiv.org/abs/2110.13985"><img src="https://img.shields.io/badge/arXiv-2110.13985-b31b1b.svg?style=flat-square"></a> </summary>
-  
-![image](https://github.com/wonjunn/state-space-models-study/assets/60861873/ddad1821-6727-45d7-8132-982ba5aad42f)
-
-</details>
-
-</details>
-
-<details><summary> <strong> How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections </strong> <code>ICLR 2023</code> <br> <a href="https://arxiv.org/abs/2206.12037"><img src="https://img.shields.io/badge/arXiv-2206.12037-b31b1b.svg?style=flat-square"></a> </summary>
-
-</details>
-
-### Structured Matrix
-
-<details><summary> <strong> Efficiently Modeling Long Sequences with Structured State Spaces </strong> <code>ICLR 2022</code> <code>#S4</code> <br> <a href="https://arxiv.org/abs/2111.00396"><img alt="GitHub release" src="https://img.shields.io/badge/arXiv-2111.00396-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/state-spaces/s4"><img src="https://img.shields.io/github/stars/state-spaces/s4?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> <a href="https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1">
-  <img src="https://github.com/wonjunn/state-space-models-study/assets/60861873/6746910e-7ed0-43bb-9bd7-2d8c3ef52964" width="20" />
-</a> </summary>
-  
-![image](https://github.com/wonjunn/state-space-models-study/assets/60861873/7196a443-8ab2-4620-b0ad-164bd1c2db9d)
-
-</details>
-
-### Diagonal Matrix
-
-<details><summary> <strong> Diagonal State Spaces are as Effective as Structured State Spaces </strong> <code>NeurIPS 2022</code> <code>#DSS</code> <br> <a href="https://arxiv.org/abs/2203.14343"><img src="https://img.shields.io/badge/arXiv-2203.14343-b31b1b.svg?style=flat-square"></a> </summary>
-
-</details>
-
-</details>
-
-<details><summary> <strong> On the Parameterization and Initialization of Diagonal State Space Models </strong> <code>NeurIPS 2023</code> <code>#S4D</code> <br> <a href="https://arxiv.org/abs/2206.11893"><img src="https://img.shields.io/badge/arXiv-2206.11893-b31b1b.svg?style=flat-square"></a> </summary>
-
-![image](https://github.com/wonjunn/state-space-models-study/assets/60861873/efa33a0a-f487-409a-b251-1292e1f4ade9)
-
-</details>
-
-## Linear Attention & RNN
-
-<details><summary> <strong> Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention </strong> <code>ICML 2020</code> <br> <a href="https://arxiv.org/abs/2006.16236"><img src="https://img.shields.io/badge/arXiv-2006.16236-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/idiap/fast-transformers"><img src="https://img.shields.io/github/stars/idiap/fast-transformers?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-<details><summary> <strong> Resurrecting Recurrent Neural Networks for Long Sequences </strong> <code>ICML 2023</code> <code>#LRU</code> <br> <a href="https://arxiv.org/abs/2303.06349"><img src="https://img.shields.io/badge/arXiv-2303.06349-b31b1b.svg?style=flat-square"></a> </summary>
-
-</details>
-
-<details><summary> <strong> RWKV: Reinventing RNNs for the Transformer Era </strong> <code>EMNLP 2023</code> <code>#RWKV</code> <br> <a href="https://arxiv.org/abs/2305.13048"><img src="https://img.shields.io/badge/arXiv-2305.13048-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/BlinkDL/RWKV-LM"><img src="https://img.shields.io/github/stars/BlinkDL/RWKV-LM?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-<details><summary> <strong> Simple linear attention language models balance the recall-throughput tradeoff </strong> <code>Preprint</code> <code>#BASED</code> <br> <a href="https://arxiv.org/abs/2402.18668"><img src="https://img.shields.io/badge/arXiv-2402.18668-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/HazyResearch/based"><img src="https://img.shields.io/github/stars/HazyResearch/based?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-<details><summary> <strong> Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models </strong> <code>Preprint</code> <code>#Griffin</code> <code>#Hawk</code> <br> <a href="https://arxiv.org/abs/2402.19427"><img src="https://img.shields.io/badge/arXiv-2402.19427-b31b1b.svg?style=flat-square"></a> </summary>
-
-</details>
-
-## Analysis
-
-<details><summary> <strong> The Hidden Attention of Mamba Models </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2403.01590"><img src="https://img.shields.io/badge/arXiv-2403.01590-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/AmeenAli/HiddenMambaAttn"><img src="https://img.shields.io/github/stars/AmeenAli/HiddenMambaAttn?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-
-## Evaluation
-
-<details><summary> <strong> Long Range Arena: A Benchmark for Efficient Transformers </strong> <code>ICLR 2021</code> <br> <a href="https://arxiv.org/abs/2011.04006"><img src="https://img.shields.io/badge/arXiv-2011.04006-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/google-research/long-range-arena"><img src="https://img.shields.io/github/stars/google-research/long-range-arena?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-<details><summary> <strong> Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2310.02980"><img src="https://img.shields.io/badge/arXiv-2310.02980-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/IdoAmos/not-from-scratch"><img src="https://img.shields.io/github/stars/IdoAmos/not-from-scratch?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-<details><summary> <strong> Zoology: Measuring and Improving Recall in Efficient Language Models </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2312.04927"><img src="https://img.shields.io/badge/arXiv-2312.04927-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/HazyResearch/zoology"><img src="https://img.shields.io/github/stars/HazyResearch/zoology?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-## Applications
-
-### Vision
-
-<details><summary> <strong> Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model </strong> <code>Preprint</code> <code>#Vim</code> <br> <a href="https://arxiv.org/abs/2401.09417"><img src="https://img.shields.io/badge/arXiv-2401.09417-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/hustvl/Vim"><img src="https://img.shields.io/github/stars/hustvl/Vim?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-<details><summary> <strong> VMamba: Visual State Space Model </strong> <code>Preprint</code> <code>#VMamba</code> <br> <a href="https://arxiv.org/abs/2401.10166"><img src="https://img.shields.io/badge/arXiv-2401.10166-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/MzeroMiko/VMamba"><img src="https://img.shields.io/github/stars/MzeroMiko/VMamba?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-## Survey
-
-<strong> On the Resurgence of Recurrent Models for Long Sequences -- Survey and Research Opportunities in the Transformer Era </strong> <br>
-<a href="https://arxiv.org/abs/2402.08132"><img src="https://img.shields.io/badge/arXiv-2402.08132-b31b1b.svg?style=flat-square"></a>
 
 ## Useful Links
 
