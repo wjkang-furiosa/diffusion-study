@@ -12,7 +12,7 @@
 
 </details>
 
-<details><summary> <strong> Phased Consistency Model </strong> <code>Preprint</code> <code>#LCM</code> <br> <a href="https://arxiv.org/abs/2405.18407"><img src="https://img.shields.io/badge/arXiv-2405.18407-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/G-U-N/Phased-Consistency-Model"><img src="https://img.shields.io/github/stars/G-U-N/Phased-Consistency-Model?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> Phased Consistency Model </strong> <code>Preprint</code> <code>#PCM</code> <br> <a href="https://arxiv.org/abs/2405.18407"><img src="https://img.shields.io/badge/arXiv-2405.18407-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/G-U-N/Phased-Consistency-Model"><img src="https://img.shields.io/github/stars/G-U-N/Phased-Consistency-Model?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
