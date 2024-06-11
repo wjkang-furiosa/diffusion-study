@@ -24,9 +24,13 @@
 
 ## Text-to-Image
 
+<details><summary> <strong> Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs </strong> <code>ICML 2024</code> <code>#RPG</code> <br> <a href="https://arxiv.org/abs/2401.11708"><img src="https://img.shields.io/badge/arXiv-2401.11708-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/YangLing0818/RPG-DiffusionMaster"><img src="https://img.shields.io/github/stars/YangLing0818/RPG-DiffusionMaster?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 ### Stability AI
 
-<details><summary> <strong> SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis </strong> <code>Preprint</code> <code>#SDXL</code> <br> <a href="https://arxiv.org/abs/2307.01952"><img src="https://img.shields.io/badge/arXiv-2307.01952-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Stability-AI/generative-models"><img src="https://img.shields.io/github/stars/Stability-AI/generative-models?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis </strong> <code>ICLR 2024</code> <code>#SDXL</code> <br> <a href="https://arxiv.org/abs/2307.01952"><img src="https://img.shields.io/badge/arXiv-2307.01952-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Stability-AI/generative-models"><img src="https://img.shields.io/github/stars/Stability-AI/generative-models?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
@@ -34,7 +38,7 @@
 
 </details>
 
-<details><summary> <strong> Scaling Rectified Flow Transformers for High-Resolution Image Synthesis </strong> <code>Preprint</code> <code>#SD3</code> <br> <a href="https://arxiv.org/abs/2403.03206"><img src="https://img.shields.io/badge/arXiv-2403.03206-b31b1b.svg?style=flat-square"></a> </summary>
+<details><summary> <strong> Scaling Rectified Flow Transformers for High-Resolution Image Synthesis </strong> <code>ICML 2024</code> <code>#SD3</code> <br> <a href="https://arxiv.org/abs/2403.03206"><img src="https://img.shields.io/badge/arXiv-2403.03206-b31b1b.svg?style=flat-square"></a> </summary>
 
 </details>
 
@@ -65,5 +69,11 @@
 ## Text-to-3d
 
 <details><summary> <strong> SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion </strong> <code>Preprint</code> <code>#SV3D</code> <br> <a href="https://arxiv.org/abs/2403.12008"><img src="https://img.shields.io/badge/arXiv-2403.12008-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Stability-AI/generative-models"><img src="https://img.shields.io/github/stars/Stability-AI/generative-models?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+## Digital Human
+
+<details><summary> <strong> MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model </strong> <code>CVPR 2024</code> <code>#MagicAnimate</code> <br> <a href="https://arxiv.org/abs/2311.16498"><img src="https://img.shields.io/badge/arXiv-2311.16498-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/magic-research/magic-animate"><img src="https://img.shields.io/github/stars/magic-research/magic-animate?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
