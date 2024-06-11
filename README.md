@@ -84,11 +84,15 @@
 
 </details>
 
-<details><summary> <strong> Wonder3D: Single Image to 3D using Cross-Domain Diffusion </strong> <code>CVPR 2024</code>  <br> <a href="https://arxiv.org/abs/2310.15008"><img src="https://img.shields.io/badge/arXiv-2310.15008-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/xxlong0/Wonder3D"><img src="https://img.shields.io/github/stars/xxlong0/Wonder3D?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> Wonder3D: Single Image to 3D using Cross-Domain Diffusion </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2310.15008"><img src="https://img.shields.io/badge/arXiv-2310.15008-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/xxlong0/Wonder3D"><img src="https://img.shields.io/github/stars/xxlong0/Wonder3D?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior </strong> <code>ICLR 2024</code>  <br> <a href="https://arxiv.org/abs/2310.16818"><img src="https://img.shields.io/badge/arXiv-2310.16818-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/deepseek-ai/DreamCraft3D"><img src="https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2310.16818"><img src="https://img.shields.io/badge/arXiv-2310.16818-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/deepseek-ai/DreamCraft3D"><img src="https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Shap-E: Generating Conditional 3D Implicit Functions </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2305.02463"><img src="https://img.shields.io/badge/arXiv-2305.02463-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/openai/shap-e"><img src="https://img.shields.io/github/stars/openai/shap-e?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
