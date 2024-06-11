@@ -88,6 +88,14 @@
 
 </details>
 
+<details><summary> <strong> Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance </strong> <code>Preprint</code> <code>#Champ</code> <br> <a href="https://arxiv.org/abs/2403.14781"><img src="https://img.shields.io/badge/arXiv-2403.14781-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/fudan-generative-vision/champ"><img src="https://img.shields.io/github/stars/fudan-generative-vision/champ?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Follow-Your-Pose : Pose-Guided Text-to-Video Generation using Pose-Free Videos </strong> <code>AAAI 2024</code> <br> <a href="https://arxiv.org/abs/2304.01186"><img src="https://img.shields.io/badge/arXiv-2304.01186-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/mayuelala/FollowYourPose"><img src="https://img.shields.io/github/stars/mayuelala/FollowYourPose?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 ### Virtual Try-on
 
 <details><summary> <strong> OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on </strong> <code>Preprint</code> <code>#OOTDiffusion</code> <br> <a href="https://arxiv.org/abs/2403.01779"><img src="https://img.shields.io/badge/arXiv-2403.01779-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/levihsu/OOTDiffusion"><img src="https://img.shields.io/github/stars/levihsu/OOTDiffusion?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
@@ -99,5 +107,15 @@
 </details>
 
 <details><summary> <strong> IDM-VTON: Improving Diffusion Models for Authentic Virtual Try-on in the Wild </strong> <code>Preprint</code> <code>#IDM-VTON</code> <br> <a href="https://arxiv.org/abs/2403.05139"><img src="https://img.shields.io/badge/arXiv-2403.05139-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/yisol/IDM-VTON"><img src="https://img.shields.io/github/stars/yisol/IDM-VTON?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+## Autoregressive Models
+
+<details><summary> <strong> Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction </strong> <code>Preprint</code> <code>VAR</code> <br> <a href="https://arxiv.org/abs/2404.02905"><img src="https://img.shields.io/badge/arXiv-2404.02905-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/FoundationVision/VAR"><img src="https://img.shields.io/github/stars/FoundationVision/VAR?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2406.06525"><img src="https://img.shields.io/badge/arXiv-2406.065259-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/FoundationVision/LlamaGen"><img src="https://img.shields.io/github/stars/FoundationVision/LlamaGen?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
