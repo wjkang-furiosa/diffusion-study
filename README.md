@@ -10,7 +10,7 @@
 
 </details>
 
-<details><summary> <strong> LCM-LoRA: A Universal Stable-Diffusion Acceleration Module </strong> <code>Preprint</code> <code>#LCM-LoRA</code> <br> <a href="https://arxiv.org/abs/2311.05556"><img src="https://img.shields.io/badge/arXiv-2311.05556-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/luosiallen/latent-consistency-model"><img src="https://img.shields.io/github/stars/luosiallen/latent-consistency-model?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> LCM-LoRA: A Universal Stable-Diffusion Acceleration Module </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2311.05556"><img src="https://img.shields.io/badge/arXiv-2311.05556-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/luosiallen/latent-consistency-model"><img src="https://img.shields.io/github/stars/luosiallen/latent-consistency-model?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
@@ -48,15 +48,15 @@
 
 ### Huawei
 
-<details><summary> <strong> PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis </strong> <code>ICLR 2024</code> <code>#PixArt-α</code> <br> <a href="https://arxiv.org/abs/2310.00426"><img src="https://img.shields.io/badge/arXiv-2310.00426-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/PixArt-alpha/PixArt-alpha"><img src="https://img.shields.io/github/stars/PixArt-alpha/PixArt-alpha?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2310.00426"><img src="https://img.shields.io/badge/arXiv-2310.00426-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/PixArt-alpha/PixArt-alpha"><img src="https://img.shields.io/github/stars/PixArt-alpha/PixArt-alpha?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> PixArt-δ: Fast and Controllable Image Generation with Latent Consistency Models </strong> <code>Preprint</code> <code>#PixArt-δ</code> <br> <a href="https://arxiv.org/abs/2401.05252"><img src="https://img.shields.io/badge/arXiv-2401.05252-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/PixArt-alpha/PixArt-alpha"><img src="https://img.shields.io/github/stars/PixArt-alpha/PixArt-alpha?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> PixArt-δ: Fast and Controllable Image Generation with Latent Consistency Models </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2401.05252"><img src="https://img.shields.io/badge/arXiv-2401.05252-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/PixArt-alpha/PixArt-alpha"><img src="https://img.shields.io/github/stars/PixArt-alpha/PixArt-alpha?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation </strong> <code>Preprint</code> <code>#PixArt-Σ</code> <br> <a href="https://arxiv.org/abs/2403.04692"><img src="https://img.shields.io/badge/arXiv-2403.04692-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/PixArt-alpha/PixArt-sigma"><img src="https://img.shields.io/github/stars/PixArt-alpha/PixArt-sigma?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2403.04692"><img src="https://img.shields.io/badge/arXiv-2403.04692-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/PixArt-alpha/PixArt-sigma"><img src="https://img.shields.io/github/stars/PixArt-alpha/PixArt-sigma?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
@@ -75,6 +75,10 @@
 </details>
 
 <details><summary> <strong> DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2310.12190"><img src="https://img.shields.io/badge/arXiv-2310.12190-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Doubiiu/DynamiCrafter"><img src="https://img.shields.io/github/stars/Doubiiu/DynamiCrafter?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Latte: Latent Diffusion Transformer for Video Generation </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2401.03048"><img src="https://img.shields.io/badge/arXiv-2401.03048-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Vchitect/Latte"><img src="https://img.shields.io/github/stars/Vchitect/Latte?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
@@ -98,45 +102,45 @@
 
 ## Fast Inference
 
-<details><summary> <strong> DeepCache: Accelerating Diffusion Models for Free </strong> <code>CVPR 2024</code> <code>#DeepCache</code> <br> <a href="https://arxiv.org/abs/2312.00858"><img src="https://img.shields.io/badge/arXiv-2312.00858-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/horseee/DeepCache"><img src="https://img.shields.io/github/stars/horseee/DeepCache?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> DeepCache: Accelerating Diffusion Models for Free </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2312.00858"><img src="https://img.shields.io/badge/arXiv-2312.00858-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/horseee/DeepCache"><img src="https://img.shields.io/github/stars/horseee/DeepCache?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> FreeU: Free Lunch in Diffusion U-Net </strong> <code>CVPR 2024</code> <code>#FreeU</code> <br> <a href="https://arxiv.org/abs/2309.11497"><img src="https://img.shields.io/badge/arXiv-2309.11497-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/ChenyangSi/FreeU"><img src="https://img.shields.io/github/stars/ChenyangSi/FreeU?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> FreeU: Free Lunch in Diffusion U-Net </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2309.11497"><img src="https://img.shields.io/badge/arXiv-2309.11497-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/ChenyangSi/FreeU"><img src="https://img.shields.io/github/stars/ChenyangSi/FreeU?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
 ## Digital Human
 
-<details><summary> <strong> MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model </strong> <code>CVPR 2024</code> <code>#MagicAnimate</code> <br> <a href="https://arxiv.org/abs/2311.16498"><img src="https://img.shields.io/badge/arXiv-2311.16498-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/magic-research/magic-animate"><img src="https://img.shields.io/github/stars/magic-research/magic-animate?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2311.16498"><img src="https://img.shields.io/badge/arXiv-2311.16498-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/magic-research/magic-animate"><img src="https://img.shields.io/github/stars/magic-research/magic-animate?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance </strong> <code>Preprint</code> <code>#Champ</code> <br> <a href="https://arxiv.org/abs/2403.14781"><img src="https://img.shields.io/badge/arXiv-2403.14781-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/fudan-generative-vision/champ"><img src="https://img.shields.io/github/stars/fudan-generative-vision/champ?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2403.14781"><img src="https://img.shields.io/badge/arXiv-2403.14781-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/fudan-generative-vision/champ"><img src="https://img.shields.io/github/stars/fudan-generative-vision/champ?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> Follow-Your-Pose : Pose-Guided Text-to-Video Generation using Pose-Free Videos </strong> <code>AAAI 2024</code> <br> <a href="https://arxiv.org/abs/2304.01186"><img src="https://img.shields.io/badge/arXiv-2304.01186-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/mayuelala/FollowYourPose"><img src="https://img.shields.io/github/stars/mayuelala/FollowYourPose?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> Follow-Your-Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos </strong> <code>AAAI 2024</code> <br> <a href="https://arxiv.org/abs/2304.01186"><img src="https://img.shields.io/badge/arXiv-2304.01186-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/mayuelala/FollowYourPose"><img src="https://img.shields.io/github/stars/mayuelala/FollowYourPose?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
 ### Virtual Try-on
 
-<details><summary> <strong> OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on </strong> <code>Preprint</code> <code>#OOTDiffusion</code> <br> <a href="https://arxiv.org/abs/2403.01779"><img src="https://img.shields.io/badge/arXiv-2403.01779-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/levihsu/OOTDiffusion"><img src="https://img.shields.io/github/stars/levihsu/OOTDiffusion?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2403.01779"><img src="https://img.shields.io/badge/arXiv-2403.01779-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/levihsu/OOTDiffusion"><img src="https://img.shields.io/github/stars/levihsu/OOTDiffusion?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> Magic Clothing: Controllable Garment-Driven Image Synthesis </strong> <code>Preprint</code> <code>#Magic Clothing</code> <br> <a href="https://arxiv.org/abs/2404.09512"><img src="https://img.shields.io/badge/arXiv-2404.09512-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/ShineChen1024/MagicClothing"><img src="https://img.shields.io/github/stars/ShineChen1024/MagicClothing?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> Magic Clothing: Controllable Garment-Driven Image Synthesis </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2404.09512"><img src="https://img.shields.io/badge/arXiv-2404.09512-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/ShineChen1024/MagicClothing"><img src="https://img.shields.io/github/stars/ShineChen1024/MagicClothing?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> IDM-VTON: Improving Diffusion Models for Authentic Virtual Try-on in the Wild </strong> <code>Preprint</code> <code>#IDM-VTON</code> <br> <a href="https://arxiv.org/abs/2403.05139"><img src="https://img.shields.io/badge/arXiv-2403.05139-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/yisol/IDM-VTON"><img src="https://img.shields.io/github/stars/yisol/IDM-VTON?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> IDM-VTON: Improving Diffusion Models for Authentic Virtual Try-on in the Wild </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2403.05139"><img src="https://img.shields.io/badge/arXiv-2403.05139-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/yisol/IDM-VTON"><img src="https://img.shields.io/github/stars/yisol/IDM-VTON?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
 ## Autoregressive Models
 
-<details><summary> <strong> Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction </strong> <code>Preprint</code> <code>VAR</code> <br> <a href="https://arxiv.org/abs/2404.02905"><img src="https://img.shields.io/badge/arXiv-2404.02905-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/FoundationVision/VAR"><img src="https://img.shields.io/github/stars/FoundationVision/VAR?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction </strong> <code>Preprint</code> <code>#VAR</code> <br> <a href="https://arxiv.org/abs/2404.02905"><img src="https://img.shields.io/badge/arXiv-2404.02905-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/FoundationVision/VAR"><img src="https://img.shields.io/github/stars/FoundationVision/VAR?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
