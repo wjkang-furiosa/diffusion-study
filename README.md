@@ -74,6 +74,14 @@
 
 ## Fast Inference
 
+<details><summary> <strong> DeepCache: Accelerating Diffusion Models for Free </strong> <code>CVPR 2024</code> <code>#DeepCache</code> <br> <a href="https://arxiv.org/abs/2312.00858"><img src="https://img.shields.io/badge/arXiv-2312.00858-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/horseee/DeepCache"><img src="https://img.shields.io/github/stars/horseee/DeepCache?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> FreeU: Free Lunch in Diffusion U-Net </strong> <code>CVPR 2024</code> <code>#FreeU</code> <br> <a href="https://arxiv.org/abs/2309.11497"><img src="https://img.shields.io/badge/arXiv-2309.11497-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/ChenyangSi/FreeU"><img src="https://img.shields.io/github/stars/ChenyangSi/FreeU?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 ## Digital Human
 
 <details><summary> <strong> MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model </strong> <code>CVPR 2024</code> <code>#MagicAnimate</code> <br> <a href="https://arxiv.org/abs/2311.16498"><img src="https://img.shields.io/badge/arXiv-2311.16498-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/magic-research/magic-animate"><img src="https://img.shields.io/github/stars/magic-research/magic-animate?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
@@ -83,5 +91,13 @@
 ### Virtual Try-on
 
 <details><summary> <strong> OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on </strong> <code>Preprint</code> <code>#OOTDiffusion</code> <br> <a href="https://arxiv.org/abs/2403.01779"><img src="https://img.shields.io/badge/arXiv-2403.01779-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/levihsu/OOTDiffusion"><img src="https://img.shields.io/github/stars/levihsu/OOTDiffusion?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Magic Clothing: Controllable Garment-Driven Image Synthesis </strong> <code>Preprint</code> <code>#Magic Clothing</code> <br> <a href="https://arxiv.org/abs/2404.09512"><img src="https://img.shields.io/badge/arXiv-2404.09512-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/ShineChen1024/MagicClothing"><img src="https://img.shields.io/github/stars/ShineChen1024/MagicClothing?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> IDM-VTON: Improving Diffusion Models for Authentic Virtual Try-on in the Wild </strong> <code>Preprint</code> <code>#IDM-VTON</code> <br> <a href="https://arxiv.org/abs/2403.05139"><img src="https://img.shields.io/badge/arXiv-2403.05139-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/yisol/IDM-VTON"><img src="https://img.shields.io/github/stars/yisol/IDM-VTON?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
