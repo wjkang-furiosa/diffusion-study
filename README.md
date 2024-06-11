@@ -60,9 +60,21 @@
 
 </details>
 
-## Text-to-Video
+## Text-to-Video / Image-to-Video
 
 <details><summary> <strong> Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets </strong> <code>Preprint</code> <code>#SVD</code> <br> <a href="https://arxiv.org/abs/2311.15127"><img src="https://img.shields.io/badge/arXiv-2311.15127-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Stability-AI/generative-models"><img src="https://img.shields.io/github/stars/Stability-AI/generative-models?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> VideoCrafter1: Open Diffusion Models for High-Quality Video Generation </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2310.19512"><img src="https://img.shields.io/badge/arXiv-2310.19512-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/AILab-CVC/VideoCrafter"><img src="https://img.shields.io/github/stars/AILab-CVC/VideoCrafter?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2401.09047"><img src="https://img.shields.io/badge/arXiv-2401.09047-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/AILab-CVC/VideoCrafter"><img src="https://img.shields.io/github/stars/AILab-CVC/VideoCrafter?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2310.12190"><img src="https://img.shields.io/badge/arXiv-2310.12190-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Doubiiu/DynamiCrafter"><img src="https://img.shields.io/github/stars/Doubiiu/DynamiCrafter?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
