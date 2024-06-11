@@ -72,8 +72,16 @@
 
 </details>
 
+## Fast Inference
+
 ## Digital Human
 
 <details><summary> <strong> MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model </strong> <code>CVPR 2024</code> <code>#MagicAnimate</code> <br> <a href="https://arxiv.org/abs/2311.16498"><img src="https://img.shields.io/badge/arXiv-2311.16498-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/magic-research/magic-animate"><img src="https://img.shields.io/github/stars/magic-research/magic-animate?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+### Virtual Try-on
+
+<details><summary> <strong> OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on </strong> <code>Preprint</code> <code>#OOTDiffusion</code> <br> <a href="https://arxiv.org/abs/2403.01779"><img src="https://img.shields.io/badge/arXiv-2403.01779-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/levihsu/OOTDiffusion"><img src="https://img.shields.io/github/stars/levihsu/OOTDiffusion?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
