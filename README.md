@@ -193,5 +193,9 @@
 
 </details>
 
+<details><summary> <strong> Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2306.17843"><img src="https://img.shields.io/badge/arXiv-2306.17843-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/guochengqian/Magic123"><img src="https://img.shields.io/github/stars/guochengqian/Magic123?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 </details>
 
