@@ -151,3 +151,9 @@
 <details><summary> <strong> Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2406.06525"><img src="https://img.shields.io/badge/arXiv-2406.065259-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/FoundationVision/LlamaGen"><img src="https://img.shields.io/github/stars/FoundationVision/LlamaGen?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
+
+## Personalized
+
+<details><summary> <strong> IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2308.06721"><img src="https://img.shields.io/badge/arXiv-2308.06721-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/tencent-ailab/IP-Adapter"><img src="https://img.shields.io/github/stars/tencent-ailab/IP-Adapter?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
