@@ -90,6 +90,10 @@
 
 </details>
 
+<details><summary> <strong> StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2403.14773"><img src="https://img.shields.io/badge/arXiv-2403.14773-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Picsart-AI-Research/StreamingT2V"><img src="https://img.shields.io/github/stars/Picsart-AI-Research/StreamingT2V?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 <details><summary> <strong> Open-Sora-Plan </strong> <br> <a href="https://github.com/PKU-YuanGroup/Open-Sora-Plan"><img src="https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
@@ -99,6 +103,10 @@
 </details>
 
 <details><summary> <strong> MiniSora </strong> <br> <a href="https://github.com/mini-sora/minisora"><img src="https://img.shields.io/github/stars/mini-sora/minisora?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> VGen </strong> <br> <a href="https://github.com/ali-vilab/VGen"><img src="https://img.shields.io/github/stars/ali-vilab/VGen?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
