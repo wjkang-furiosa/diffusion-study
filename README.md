@@ -112,6 +112,11 @@
 
 </details>
 
+<details><summary> <strong> StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation
+ </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2312.12491"><img src="https://img.shields.io/badge/arXiv-2312.12491-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/cumulo-autumn/StreamDiffusion"><img src="https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 ## Digital Human
 
 ### Animation
@@ -153,6 +158,10 @@
 ### Talking Head
 
 <details><summary> <strong> DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2312.09767"><img src="https://img.shields.io/badge/arXiv-2312.09767-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/ali-vilab/dreamtalk"><img src="https://img.shields.io/github/stars/ali-vilab/dreamtalk?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2406.02511"><img src="https://img.shields.io/badge/arXiv-2406.02511-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/tencent-ailab/V-Express"><img src="https://img.shields.io/github/stars/tencent-ailab/V-Express?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
