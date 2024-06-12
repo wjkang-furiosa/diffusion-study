@@ -98,6 +98,10 @@
 
 </details>
 
+<details><summary> <strong> MiniSora </strong> <br> <a href="https://github.com/mini-sora/minisora"><img src="https://img.shields.io/github/stars/mini-sora/minisora?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 ## Fast Inference
 
 <details><summary> <strong> DeepCache: Accelerating Diffusion Models for Free </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2312.00858"><img src="https://img.shields.io/badge/arXiv-2312.00858-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/horseee/DeepCache"><img src="https://img.shields.io/github/stars/horseee/DeepCache?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
@@ -124,6 +128,14 @@
 
 </details>
 
+<details><summary> <strong> MuseV </strong> <br> <a href="https://github.com/TMElyralab/MuseV"><img src="https://img.shields.io/github/stars/TMElyralab/MuseV?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> MusePose </strong> <br> <a href="https://github.com/TMElyralab/MusePose"><img src="https://img.shields.io/github/stars/TMElyralab/MusePose?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 ### Virtual Try-on
 
 <details><summary> <strong> OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2403.01779"><img src="https://img.shields.io/badge/arXiv-2403.01779-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/levihsu/OOTDiffusion"><img src="https://img.shields.io/github/stars/levihsu/OOTDiffusion?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
@@ -141,6 +153,10 @@
 ### Talking Head
 
 <details><summary> <strong> DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2312.09767"><img src="https://img.shields.io/badge/arXiv-2312.09767-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/ali-vilab/dreamtalk"><img src="https://img.shields.io/github/stars/ali-vilab/dreamtalk?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> MuseTalk </strong> <br> <a href="https://github.com/TMElyralab/MuseTalk"><img src="https://img.shields.io/github/stars/TMElyralab/MuseTalk?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
