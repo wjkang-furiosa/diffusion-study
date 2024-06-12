@@ -90,24 +90,6 @@
 
 </details>
 
-## Text-to-3d / Image-to-3d
-
-<details><summary> <strong> SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion </strong> <code>Preprint</code> <code>#SV3D</code> <br> <a href="https://arxiv.org/abs/2403.12008"><img src="https://img.shields.io/badge/arXiv-2403.12008-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Stability-AI/generative-models"><img src="https://img.shields.io/github/stars/Stability-AI/generative-models?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-<details><summary> <strong> Wonder3D: Single Image to 3D using Cross-Domain Diffusion </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2310.15008"><img src="https://img.shields.io/badge/arXiv-2310.15008-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/xxlong0/Wonder3D"><img src="https://img.shields.io/github/stars/xxlong0/Wonder3D?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-<details><summary> <strong> DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2310.16818"><img src="https://img.shields.io/badge/arXiv-2310.16818-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/deepseek-ai/DreamCraft3D"><img src="https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
-<details><summary> <strong> Shap-E: Generating Conditional 3D Implicit Functions </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2305.02463"><img src="https://img.shields.io/badge/arXiv-2305.02463-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/openai/shap-e"><img src="https://img.shields.io/github/stars/openai/shap-e?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
-
-</details>
-
 ## Fast Inference
 
 <details><summary> <strong> DeepCache: Accelerating Diffusion Models for Free </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2312.00858"><img src="https://img.shields.io/badge/arXiv-2312.00858-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/horseee/DeepCache"><img src="https://img.shields.io/github/stars/horseee/DeepCache?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
@@ -169,3 +151,34 @@
 <details><summary> <strong> Style Aligned Image Generation via Shared Attention </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2312.02133"><img src="https://img.shields.io/badge/arXiv-2312.02133-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/google/style-aligned"><img src="https://img.shields.io/github/stars/google/style-aligned?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
+
+## Video Editing
+
+<details><summary> <strong> TokenFlow: Consistent Diffusion Features for Consistent Video Editing </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2307.10373"><img src="https://img.shields.io/badge/arXiv-2307.10373-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/omerbt/TokenFlow"><img src="https://img.shields.io/github/stars/omerbt/TokenFlow?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <h2> Text-to-3d / Image-to-3d </h2> </summary>
+
+<details><summary> <strong> SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion </strong> <code>Preprint</code> <code>#SV3D</code> <br> <a href="https://arxiv.org/abs/2403.12008"><img src="https://img.shields.io/badge/arXiv-2403.12008-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Stability-AI/generative-models"><img src="https://img.shields.io/github/stars/Stability-AI/generative-models?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Wonder3D: Single Image to 3D using Cross-Domain Diffusion </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2310.15008"><img src="https://img.shields.io/badge/arXiv-2310.15008-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/xxlong0/Wonder3D"><img src="https://img.shields.io/github/stars/xxlong0/Wonder3D?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2310.16818"><img src="https://img.shields.io/badge/arXiv-2310.16818-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/deepseek-ai/DreamCraft3D"><img src="https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Shap-E: Generating Conditional 3D Implicit Functions </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2305.02463"><img src="https://img.shields.io/badge/arXiv-2305.02463-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/openai/shap-e"><img src="https://img.shields.io/github/stars/openai/shap-e?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2310.15110"><img src="https://img.shields.io/badge/arXiv-2310.15110-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/SUDO-AI-3D/zero123plus"><img src="https://img.shields.io/github/stars/SUDO-AI-3D/zero123plus?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+</details>
+
