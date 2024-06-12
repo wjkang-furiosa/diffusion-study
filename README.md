@@ -86,6 +86,10 @@
 
 </details>
 
+<details><summary> <strong> Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2309.15818"><img src="https://img.shields.io/badge/arXiv-2309.15818-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/showlab/Show-1"><img src="https://img.shields.io/github/stars/showlab/Show-1?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 ## Text-to-3d / Image-to-3d
 
 <details><summary> <strong> SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion </strong> <code>Preprint</code> <code>#SV3D</code> <br> <a href="https://arxiv.org/abs/2403.12008"><img src="https://img.shields.io/badge/arXiv-2403.12008-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/Stability-AI/generative-models"><img src="https://img.shields.io/github/stars/Stability-AI/generative-models?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
@@ -155,5 +159,13 @@
 ## Personalized
 
 <details><summary> <strong> IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2308.06721"><img src="https://img.shields.io/badge/arXiv-2308.06721-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/tencent-ailab/IP-Adapter"><img src="https://img.shields.io/github/stars/tencent-ailab/IP-Adapter?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Anydoor: Zero-shot object-level image customization </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2307.09481"><img src="https://img.shields.io/badge/arXiv-2307.09481-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/ali-vilab/AnyDoor"><img src="https://img.shields.io/github/stars/ali-vilab/AnyDoor?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Style Aligned Image Generation via Shared Attention </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2312.02133"><img src="https://img.shields.io/badge/arXiv-2312.02133-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/google/style-aligned"><img src="https://img.shields.io/github/stars/google/style-aligned?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
