@@ -102,6 +102,8 @@
 
 ## Digital Human
 
+### Animation
+
 <details><summary> <strong> MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2311.16498"><img src="https://img.shields.io/badge/arXiv-2311.16498-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/magic-research/magic-animate"><img src="https://img.shields.io/github/stars/magic-research/magic-animate?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
@@ -128,13 +130,19 @@
 
 </details>
 
+### Talking Head
+
+<details><summary> <strong> DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2312.09767"><img src="https://img.shields.io/badge/arXiv-2312.09767-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/ali-vilab/dreamtalk"><img src="https://img.shields.io/github/stars/ali-vilab/dreamtalk?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 ## Autoregressive Models
 
 <details><summary> <strong> Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction </strong> <code>Preprint</code> <code>#VAR</code> <br> <a href="https://arxiv.org/abs/2404.02905"><img src="https://img.shields.io/badge/arXiv-2404.02905-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/FoundationVision/VAR"><img src="https://img.shields.io/github/stars/FoundationVision/VAR?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2406.06525"><img src="https://img.shields.io/badge/arXiv-2406.065259-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/FoundationVision/LlamaGen"><img src="https://img.shields.io/github/stars/FoundationVision/LlamaGen?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+<details><summary> <strong> Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2406.06525"><img src="https://img.shields.io/badge/arXiv-2406.06525-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/FoundationVision/LlamaGen"><img src="https://img.shields.io/github/stars/FoundationVision/LlamaGen?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
@@ -155,6 +163,14 @@
 ## Video Editing
 
 <details><summary> <strong> TokenFlow: Consistent Diffusion Features for Consistent Video Editing </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2307.10373"><img src="https://img.shields.io/badge/arXiv-2307.10373-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/omerbt/TokenFlow"><img src="https://img.shields.io/github/stars/omerbt/TokenFlow?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+## Open Source
+
+### Text-to-Video / Image-to-Video
+
+<details><summary> <strong> Open-Sora-Plan </strong> <br> <a href="https://github.com/PKU-YuanGroup/Open-Sora-Plan"><img src="https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
