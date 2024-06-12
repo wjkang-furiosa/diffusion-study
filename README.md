@@ -94,6 +94,10 @@
 
 </details>
 
+<details><summary> <strong> Open-Sora </strong> <br> <a href="https://github.com/hpcaitech/Open-Sora"><img src="https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 ## Fast Inference
 
 <details><summary> <strong> DeepCache: Accelerating Diffusion Models for Free </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2312.00858"><img src="https://img.shields.io/badge/arXiv-2312.00858-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/horseee/DeepCache"><img src="https://img.shields.io/github/stars/horseee/DeepCache?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
