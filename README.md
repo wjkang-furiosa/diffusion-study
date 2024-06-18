@@ -120,6 +120,10 @@
 
 </details>
 
+<details><summary> <strong> DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models </strong> <code>CVPR 2024</code> <br> <a href="https://arxiv.org/abs/2402.19481"><img src="https://img.shields.io/badge/arXiv-2402.19481-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/mit-han-lab/distrifuser"><img src="https://img.shields.io/github/stars/mit-han-lab/distrifuser?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 <details><summary> <strong> StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation
  </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2312.12491"><img src="https://img.shields.io/badge/arXiv-2312.12491-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/cumulo-autumn/StreamDiffusion"><img src="https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
